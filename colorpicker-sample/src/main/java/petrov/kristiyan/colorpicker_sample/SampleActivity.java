@@ -12,7 +12,6 @@ import java.util.ArrayList;
 import androidx.appcompat.app.AppCompatActivity;
 import petrov.kristiyan.colorpicker.ColorPicker;
 
-
 public class SampleActivity extends AppCompatActivity {
 
     @Override
